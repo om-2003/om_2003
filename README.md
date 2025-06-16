@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Computer Engineer | CS Graduate (2025)</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/om-2003" width="150" style="border-radius: 70%" alt="Om's GitHub profile picture" />
+  <img src="https://avatars.githubusercontent.com/om-2003" width="150" style="border-radius: 50%" alt="Om's GitHub profile picture" />
 </p>
 
 ---
