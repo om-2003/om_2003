@@ -31,7 +31,7 @@
 
 ---
 <div align="center">
-### 📈 GitHub Stats
+<h1>📈 GitHub Stats</h1>
   
 ![](https://github-readme-stats.vercel.app/api?username=om-2003&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=om-2003&theme=ambient_gradient&hide_border=false)<br/>
