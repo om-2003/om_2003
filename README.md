@@ -1,55 +1,18 @@
-<h1 align="center">Hi there 👋, I'm Om Giratkar</h1>
-<h3 align="center">Aspiring Computer Engineer | CS GRAD'25</h3>
+# 💫 About Me:
+🎓 I'm a Computer Science Engineer GRAD'25 from TSSM's BSCOER  <br>💻 Passionate about Web Development, Programming, and Problem Solving <br>🚀 Quick learner with a never-ending drive to explore new tech  <br>🔧 Currently building real-world projects and sharpening my dev skills
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/om-2003" width="150" style="border-radius: 50%" alt="Om's GitHub profile picture" />
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/omrgiratkar?igsh=MTMzMXJ1bmxzMjI4OQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-giratkar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/7IKRes3Mo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@omgiratkar_03) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@omrgiratkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omgiratkar95@gmail.com) 
 
-🎓 I'm a **Computer Science Engineer GRAD'25** from TSSM's BSCOER  
-💻 Passionate about **Web Development**, **Programming**, and **Problem Solving**  
-🚀 Quick learner with a never-ending drive to explore new tech  
-🔧 Currently building real-world projects and sharpening my dev skills
-
----
-
-### 📫 Contact Me
-
-- 📧 Email: [omgiratkar95@example.com](mailto:omgiratkar95@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/om-giratkar](https://linkedin.com/in/om-giratkar)  
-- 🧑‍💻 GitHub: [github.com/om-2003](https://github.com/om-2003)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=om-2003&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=om-2003&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=om-2003&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=om-2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Skills & Tech Stack
-
-- Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Material UI
-- Backend: Node.js, Express.js, Java
-- Databases: MySQL, MongoDB, PostgreSQL
-- Others: Git, GitHub, VS Code, Postman, Figma  
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om-2003&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=om-2003&theme=tokyonight&hide_border=false" width="48%" />
-</p>
-
----
-
-### 🔥 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=om-2003&theme=tokyo-night" width="100%"/>
-</p>
-
----
-
-### 👀 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=om-2003&label=Profile%20views&color=0e75b6&style=flat" alt="om-2003" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
