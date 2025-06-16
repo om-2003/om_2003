@@ -7,7 +7,7 @@
 
 ---
 
-🎓 I'm a **Computer Science Engineer (2025)** from TSSM's BSCOER  
+🎓 I'm a **Computer Science Engineer GRAD'25** from TSSM's BSCOER  
 💻 Passionate about **Web Development**, **Programming**, and **Problem Solving**  
 🚀 Quick learner with a never-ending drive to explore new tech  
 🔧 Currently building real-world projects and sharpening my dev skills
