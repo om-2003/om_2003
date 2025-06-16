@@ -25,7 +25,7 @@
 ### 🛠️ Skills & Tech Stack
 
 - Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Material UI
-- Backend: Node.js, Express.js  
+- Backend: Node.js, Express.js, Java
 - Databases: MySQL, MongoDB, PostgreSQL
 - Others: Git, GitHub, VS Code, Postman, Figma  
 
