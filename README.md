@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Om Giratkar</h1>
-<h3 align="center">Aspiring Computer Engineer | CS GRAD'25</h3>
+<h3 align="center">Aspiring Computer Engineer | GRAD'25</h3>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/om-2003" width="150" style="border-radius: 50%" alt="Om's GitHub profile picture" />
