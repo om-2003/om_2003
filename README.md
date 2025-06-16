@@ -16,7 +16,7 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: [om.giratkar@example.com](mailto:om.giratkar@example.com)  
+- 📧 Email: [om.giratkar@example.com](mailto:omgiratkar95@example.com)  
 - 💼 LinkedIn: [linkedin.com/in/om-giratkar](https://linkedin.com/in/om-giratkar)  
 - 🧑‍💻 GitHub: [github.com/om-2003](https://github.com/om-2003)
 
