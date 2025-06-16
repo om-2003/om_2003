@@ -31,13 +31,13 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om-2003&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=om-2003&theme=tokyonight&hide_border=false" width="48%" />
-</p>
-
+<h3>📈 GitHub Stats</h3>
+  <div align="center">
+    
+![](https://github-readme-stats.vercel.app/api?username=om-2003&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=om-2003&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=om-2003&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  </div>
 ---
 
 ### 🔥 GitHub Contributions
