@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Om Giratkar</h1>
-<h3 align="center">🚀 Aspiring Computer Engineer | Class of 2025</h3>
+<h3 align="center">🚀 Aspiring Computer Engineer | GRAD'25</h3>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/om-2003" width="150" style="border-radius: 50%" alt="Om's GitHub profile picture" />
@@ -15,7 +15,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **Computer Science Engineer (GRAD'25)** from **TSSM's BSCOER**
+- 🎓 **Computer Science Engineer** from **TSSM's BSCOER**
 - 🌱 Currently focused on **Full Stack Web Development**
 - 💻 I enjoy building real-world projects and solving coding challenges
 - 🧠 Always exploring new tech, tools & frameworks
