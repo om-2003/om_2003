@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Om R. Giratkar</h1>
+<h1 align="center">Hi there 👋, I'm Om R. N. Giratkar</h1>
 <h3 align="center">🚀 Aspiring Computer Engineer | GRAD'25</h3>
 
 <p align="center">
