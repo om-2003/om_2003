@@ -65,7 +65,7 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=om-2003&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=om-2003&theme=dracula&area=true" width="100%"/>
 </p>
 ---
 
